@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "tohalike",
+    "mongoUri": "mongodb+srv://AntonM:554431@cluster0.x0vmcni.mongodb.net/",
+    "baseUrl": "http://localhost:5000"
+}
